@@ -19,7 +19,7 @@
 
 <br/>
 
-[🚀 Start Learning](#-quick-start) • [📚 View Curriculum](#-complete-curriculum) • [🤝 Contribute](#-contributing) • [🌐 Related Resources](#-related-repositories)
+### [🚀 Start Learning](#-quick-start) • [📚 View Curriculum](#-complete-curriculum) • [🤝 Contribute](#-contributing) • [🌐 Related Resources](#-related-repositories)
 
 </div>
 
