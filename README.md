@@ -11,6 +11,8 @@
 [![Stars](https://img.shields.io/github/stars/MusaIslamFahad/python-for-ai-engineers?style=social)](https://github.com/MusaIslamFahad/python-for-ai-engineers/stargazers)
 [![Forks](https://img.shields.io/github/forks/MusaIslamFahad/python-for-ai-engineers?style=social)](https://github.com/MusaIslamFahad/python-for-ai-engineers/network/members)
 
+![Python for AI Engineers](https://raw.githubusercontent.com/MusaIslamFahad/python-for-ai-engineers/main/assets/banner.png)
+
 <br/>
 
 > 🎯 **From `print("Hello World")` to deploying production-grade AI systems** - one notebook at a time.
